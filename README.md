@@ -4,7 +4,7 @@
 <p align="left"> 
 Hi, my name is Stephen Bodie! I am a veteran software engineer with over ten years of experience utlizing a variety of different languages, technologies, and architectural practices. I also enjoy working as a educator and mentor for the local development community here in nashville. <br>
 
-💻 Lead Software Engineer at [SmileDirectClub](https://www.smiledirectclub.com/)<br>
+💻 Senior Software Engineer at [eviCore](https://www.evicore.com/)<br>
 📄 [AWS](https://www.credly.com/badges/45eef5fa-9a1e-4546-b534-909b5f2452aa/public_url) Certified<br> 
 🎓 Graduated with a bachelors in Computer Science from [The University of Tennessee Knoxville](https://www.eecs.utk.edu/)<br>
 </p>
@@ -50,6 +50,7 @@ Hi, my name is Stephen Bodie! I am a veteran software engineer with over ten yea
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   <br/>
   ![SQS/SNS](https://img.shields.io/badge/-Amazon%20SQS%20SNS-333333?style=flat&logo=amazon-aws&logoColor=F90tyoe)
+  ![Kafka](https://img.shields.io/static/v1?label=&message=kafka&logo=apache-kafka&color=4f4f4f)
 
   ### Enviroment, IDEs and Tools
   ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
