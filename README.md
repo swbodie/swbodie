@@ -10,8 +10,6 @@ Hi, my name is Stephen Bodie! I am a veteran software engineer with over ten yea
 </p>
 
 ## Tech Knowledge
-<details>
-  <summary>Expand to view my technical skill sets and tools.</summary>
 
   ### Languages, Markup, and More
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=CSharp)
@@ -62,4 +60,3 @@ Hi, my name is Stephen Bodie! I am a veteran software engineer with over ten yea
   <br/>
   ![ESLINT](https://img.shields.io/badge/-ESLINT-333333?style=flat&logo=eslint)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
-</details>
